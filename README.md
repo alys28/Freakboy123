@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Freakboy123
 - 👀 I’m interested in web and app development, entrepreneurship
-- 🌱 I’m currently learning Express.js and React
+- Skills in Web Development, Mobile App Development, ML/AI
 - 💞️ I’m looking to collaborate on Web dev related projects
 - 📫 How to reach me: email - alyshariff2810@gmail.com
 
